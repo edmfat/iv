@@ -3,7 +3,7 @@ package imp1.string;
 import java.util.HashMap;
 
 public class Test1 {
-
+//number of occurances find
 	public static void main(String[] args) {
 		
 		String str = "aabbbcccc";
